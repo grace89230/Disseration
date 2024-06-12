@@ -1,0 +1,289 @@
+ID,Statistic Label,TLIST(A1),Year,C04042V04804,Type of Building,C03440V04149,Energy Rating,UNIT,VALUE
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,13,A - B,Mean kilowatt-hours,27244
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,07,C,Mean kilowatt-hours,28808
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,08,D,Mean kilowatt-hours,22872
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,09,E,Mean kilowatt-hours,27276
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,10,F- G,Mean kilowatt-hours,18539
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,24292
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,13,A - B,Mean kilowatt-hours,91976
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,07,C,Mean kilowatt-hours,48340
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,08,D,Mean kilowatt-hours,32420
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,09,E,Mean kilowatt-hours,24374
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,10,F- G,Mean kilowatt-hours,16963
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,20,Office,-,All BER ratings,Mean kilowatt-hours,34418
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,13,A - B,Mean kilowatt-hours,24304
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,07,C,Mean kilowatt-hours,23698
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,08,D,Mean kilowatt-hours,15106
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,09,E,Mean kilowatt-hours,11736
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,10,F- G,Mean kilowatt-hours,10275
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,15050
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,44932
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,07,C,Mean kilowatt-hours,45644
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,08,D,Mean kilowatt-hours,47145
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,09,E,Mean kilowatt-hours,46443
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,39626
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,45493
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,13,A - B,Mean kilowatt-hours,57067
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,07,C,Mean kilowatt-hours,36490
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,08,D,Mean kilowatt-hours,23525
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,09,E,Mean kilowatt-hours,17650
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,10,F- G,Mean kilowatt-hours,22473
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,50,Retail,-,All BER ratings,Mean kilowatt-hours,33078
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,13,A - B,Mean kilowatt-hours,59704
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,07,C,Mean kilowatt-hours,38892
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,08,D,Mean kilowatt-hours,28384
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,09,E,Mean kilowatt-hours,23048
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,10,F- G,Mean kilowatt-hours,20805
+NBEREL01C01,Non-Domestic Electricity Consumption,2015,2015,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,13,A - B,Mean kilowatt-hours,27143
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,07,C,Mean kilowatt-hours,30390
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,08,D,Mean kilowatt-hours,22283
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,09,E,Mean kilowatt-hours,27938
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,10,F- G,Mean kilowatt-hours,17498
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,24202
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,13,A - B,Mean kilowatt-hours,97049
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,07,C,Mean kilowatt-hours,47680
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,08,D,Mean kilowatt-hours,32076
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,09,E,Mean kilowatt-hours,24656
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,10,F- G,Mean kilowatt-hours,17102
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,20,Office,-,All BER ratings,Mean kilowatt-hours,34762
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,13,A - B,Mean kilowatt-hours,40392
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,07,C,Mean kilowatt-hours,24927
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,08,D,Mean kilowatt-hours,13814
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,09,E,Mean kilowatt-hours,10549
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,10,F- G,Mean kilowatt-hours,9204
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,15393
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,46039
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,07,C,Mean kilowatt-hours,43583
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,08,D,Mean kilowatt-hours,47099
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,09,E,Mean kilowatt-hours,44353
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,41519
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,44730
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,13,A - B,Mean kilowatt-hours,58835
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,07,C,Mean kilowatt-hours,36559
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,08,D,Mean kilowatt-hours,23522
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,09,E,Mean kilowatt-hours,17179
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,10,F- G,Mean kilowatt-hours,22595
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,50,Retail,-,All BER ratings,Mean kilowatt-hours,33325
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,13,A - B,Mean kilowatt-hours,62232
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,07,C,Mean kilowatt-hours,38782
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,08,D,Mean kilowatt-hours,28257
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,09,E,Mean kilowatt-hours,22535
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,10,F- G,Mean kilowatt-hours,20926
+NBEREL01C01,Non-Domestic Electricity Consumption,2016,2016,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,13,A - B,Mean kilowatt-hours,22204
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,07,C,Mean kilowatt-hours,30765
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,08,D,Mean kilowatt-hours,20585
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,09,E,Mean kilowatt-hours,28008
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,10,F- G,Mean kilowatt-hours,17534
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,23135
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,13,A - B,Mean kilowatt-hours,92081
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,07,C,Mean kilowatt-hours,44720
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,08,D,Mean kilowatt-hours,30676
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,09,E,Mean kilowatt-hours,24249
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,10,F- G,Mean kilowatt-hours,17317
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,20,Office,-,All BER ratings,Mean kilowatt-hours,33639
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,13,A - B,Mean kilowatt-hours,50048
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,07,C,Mean kilowatt-hours,24869
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,08,D,Mean kilowatt-hours,14363
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,09,E,Mean kilowatt-hours,10525
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,10,F- G,Mean kilowatt-hours,8243
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,16012
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,44991
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,07,C,Mean kilowatt-hours,42879
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,08,D,Mean kilowatt-hours,46574
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,09,E,Mean kilowatt-hours,44624
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,41763
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,44401
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,13,A - B,Mean kilowatt-hours,59272
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,07,C,Mean kilowatt-hours,36002
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,08,D,Mean kilowatt-hours,22372
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,09,E,Mean kilowatt-hours,16941
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,10,F- G,Mean kilowatt-hours,22318
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,50,Retail,-,All BER ratings,Mean kilowatt-hours,32987
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,13,A - B,Mean kilowatt-hours,62136
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,07,C,Mean kilowatt-hours,37816
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,08,D,Mean kilowatt-hours,27153
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,09,E,Mean kilowatt-hours,22280
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,10,F- G,Mean kilowatt-hours,20752
+NBEREL01C01,Non-Domestic Electricity Consumption,2017,2017,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,13,A - B,Mean kilowatt-hours,23038
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,07,C,Mean kilowatt-hours,30708
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,08,D,Mean kilowatt-hours,22698
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,09,E,Mean kilowatt-hours,27855
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,10,F- G,Mean kilowatt-hours,19113
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,24247
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,13,A - B,Mean kilowatt-hours,98673
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,07,C,Mean kilowatt-hours,45303
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,08,D,Mean kilowatt-hours,31565
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,09,E,Mean kilowatt-hours,24686
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,10,F- G,Mean kilowatt-hours,17452
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,20,Office,-,All BER ratings,Mean kilowatt-hours,34622
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,13,A - B,Mean kilowatt-hours,53703
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,07,C,Mean kilowatt-hours,26299
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,08,D,Mean kilowatt-hours,15861
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,09,E,Mean kilowatt-hours,11436
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,10,F- G,Mean kilowatt-hours,9038
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,17884
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,49574
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,07,C,Mean kilowatt-hours,44142
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,08,D,Mean kilowatt-hours,47667
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,09,E,Mean kilowatt-hours,47297
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,39544
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,45546
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,13,A - B,Mean kilowatt-hours,61959
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,07,C,Mean kilowatt-hours,35890
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,08,D,Mean kilowatt-hours,23559
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,09,E,Mean kilowatt-hours,17324
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,10,F- G,Mean kilowatt-hours,22194
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,50,Retail,-,All BER ratings,Mean kilowatt-hours,33602
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,13,A - B,Mean kilowatt-hours,65332
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,07,C,Mean kilowatt-hours,37948
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,08,D,Mean kilowatt-hours,28272
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,09,E,Mean kilowatt-hours,23048
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,10,F- G,Mean kilowatt-hours,20716
+NBEREL01C01,Non-Domestic Electricity Consumption,2018,2018,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,13,A - B,Mean kilowatt-hours,21101
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,07,C,Mean kilowatt-hours,28238
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,08,D,Mean kilowatt-hours,19592
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,09,E,Mean kilowatt-hours,28067
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,10,F- G,Mean kilowatt-hours,18469
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,22424
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,13,A - B,Mean kilowatt-hours,92143
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,07,C,Mean kilowatt-hours,43742
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,08,D,Mean kilowatt-hours,29233
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,09,E,Mean kilowatt-hours,22169
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,10,F- G,Mean kilowatt-hours,16798
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,20,Office,-,All BER ratings,Mean kilowatt-hours,32694
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,13,A - B,Mean kilowatt-hours,58025
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,07,C,Mean kilowatt-hours,25237
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,08,D,Mean kilowatt-hours,14015
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,09,E,Mean kilowatt-hours,10842
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,10,F- G,Mean kilowatt-hours,8674
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,17347
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,54719
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,07,C,Mean kilowatt-hours,44325
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,08,D,Mean kilowatt-hours,47346
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,09,E,Mean kilowatt-hours,45077
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,40190
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,45351
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,13,A - B,Mean kilowatt-hours,62475
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,07,C,Mean kilowatt-hours,34207
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,08,D,Mean kilowatt-hours,22334
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,09,E,Mean kilowatt-hours,16444
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,10,F- G,Mean kilowatt-hours,21099
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,50,Retail,-,All BER ratings,Mean kilowatt-hours,32576
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,13,A - B,Mean kilowatt-hours,65043
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,07,C,Mean kilowatt-hours,36438
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,08,D,Mean kilowatt-hours,26751
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,09,E,Mean kilowatt-hours,21443
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,10,F- G,Mean kilowatt-hours,19862
+NBEREL01C01,Non-Domestic Electricity Consumption,2019,2019,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,13,A - B,Mean kilowatt-hours,19429
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,07,C,Mean kilowatt-hours,24417
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,08,D,Mean kilowatt-hours,17096
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,09,E,Mean kilowatt-hours,25694
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,10,F- G,Mean kilowatt-hours,17796
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,20348
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,13,A - B,Mean kilowatt-hours,82618
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,07,C,Mean kilowatt-hours,38148
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,08,D,Mean kilowatt-hours,26384
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,09,E,Mean kilowatt-hours,21612
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,10,F- G,Mean kilowatt-hours,16367
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,20,Office,-,All BER ratings,Mean kilowatt-hours,29738
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,13,A - B,Mean kilowatt-hours,52166
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,07,C,Mean kilowatt-hours,24235
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,08,D,Mean kilowatt-hours,14377
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,09,E,Mean kilowatt-hours,11524
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,10,F- G,Mean kilowatt-hours,8728
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,17623
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,43475
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,07,C,Mean kilowatt-hours,37200
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,08,D,Mean kilowatt-hours,37796
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,09,E,Mean kilowatt-hours,39798
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,31324
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,37374
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,13,A - B,Mean kilowatt-hours,61047
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,07,C,Mean kilowatt-hours,31522
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,08,D,Mean kilowatt-hours,20366
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,09,E,Mean kilowatt-hours,14384
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,10,F- G,Mean kilowatt-hours,18378
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,50,Retail,-,All BER ratings,Mean kilowatt-hours,30342
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,13,A - B,Mean kilowatt-hours,62149
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,07,C,Mean kilowatt-hours,32971
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,08,D,Mean kilowatt-hours,23903
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,09,E,Mean kilowatt-hours,19897
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,10,F- G,Mean kilowatt-hours,17910
+NBEREL01C01,Non-Domestic Electricity Consumption,2020,2020,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,13,A - B,Mean kilowatt-hours,19309
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,07,C,Mean kilowatt-hours,27113
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,08,D,Mean kilowatt-hours,20601
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,09,E,Mean kilowatt-hours,27263
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,10,F- G,Mean kilowatt-hours,16280
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,21457
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,13,A - B,Mean kilowatt-hours,77242
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,07,C,Mean kilowatt-hours,34083
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,08,D,Mean kilowatt-hours,23997
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,09,E,Mean kilowatt-hours,19795
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,10,F- G,Mean kilowatt-hours,15533
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,20,Office,-,All BER ratings,Mean kilowatt-hours,27197
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,13,A - B,Mean kilowatt-hours,58424
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,07,C,Mean kilowatt-hours,25268
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,08,D,Mean kilowatt-hours,13982
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,09,E,Mean kilowatt-hours,11100
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,10,F- G,Mean kilowatt-hours,8662
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,19110
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,46953
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,07,C,Mean kilowatt-hours,34471
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,08,D,Mean kilowatt-hours,36636
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,09,E,Mean kilowatt-hours,37041
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,29057
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,35446
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,13,A - B,Mean kilowatt-hours,65630
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,07,C,Mean kilowatt-hours,32123
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,08,D,Mean kilowatt-hours,20166
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,09,E,Mean kilowatt-hours,13937
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,10,F- G,Mean kilowatt-hours,18430
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,50,Retail,-,All BER ratings,Mean kilowatt-hours,31354
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,13,A - B,Mean kilowatt-hours,64990
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,07,C,Mean kilowatt-hours,32499
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,08,D,Mean kilowatt-hours,22976
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,09,E,Mean kilowatt-hours,18693
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,10,F- G,Mean kilowatt-hours,17446
+NBEREL01C01,Non-Domestic Electricity Consumption,2021,2021,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,13,A - B,Mean kilowatt-hours,20732
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,07,C,Mean kilowatt-hours,24129
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,08,D,Mean kilowatt-hours,19296
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,09,E,Mean kilowatt-hours,26551
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,10,F- G,Mean kilowatt-hours,16135
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,10,Community/day centre,-,All BER ratings,Mean kilowatt-hours,20770
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,13,A - B,Mean kilowatt-hours,81819
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,07,C,Mean kilowatt-hours,34740
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,08,D,Mean kilowatt-hours,24969
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,09,E,Mean kilowatt-hours,18724
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,10,F- G,Mean kilowatt-hours,15531
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,20,Office,-,All BER ratings,Mean kilowatt-hours,27681
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,13,A - B,Mean kilowatt-hours,70348
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,07,C,Mean kilowatt-hours,25302
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,08,D,Mean kilowatt-hours,12895
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,09,E,Mean kilowatt-hours,11011
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,10,F- G,Mean kilowatt-hours,8220
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,30,Primary health care,-,All BER ratings,Mean kilowatt-hours,20221
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,13,A - B,Mean kilowatt-hours,53087
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,07,C,Mean kilowatt-hours,39801
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,08,D,Mean kilowatt-hours,43087
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,09,E,Mean kilowatt-hours,44529
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,10,F- G,Mean kilowatt-hours,41486
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,40,Restaurant/public house,-,All BER ratings,Mean kilowatt-hours,42475
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,13,A - B,Mean kilowatt-hours,71125
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,07,C,Mean kilowatt-hours,33390
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,08,D,Mean kilowatt-hours,21106
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,09,E,Mean kilowatt-hours,14306
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,10,F- G,Mean kilowatt-hours,21012
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,50,Retail,-,All BER ratings,Mean kilowatt-hours,33399
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,13,A - B,Mean kilowatt-hours,70292
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,07,C,Mean kilowatt-hours,33829
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,08,D,Mean kilowatt-hours,24328
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,09,E,Mean kilowatt-hours,19305
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,10,F- G,Mean kilowatt-hours,19340
+NBEREL01C01,Non-Domestic Electricity Consumption,2022,2022,-,Total of selected building types,-,All BER ratings,Mean kilowatt-hours,

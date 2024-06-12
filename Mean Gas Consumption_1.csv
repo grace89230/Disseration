@@ -1,0 +1,289 @@
+id,STATISTIC Label,TLIST(A1),Year,C03151V03803,Type of dwelling,C03440V04149,Energy rating,UNIT,VALUE
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,13,A - B,Mean kilowatt hours,6954
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,07,C,Mean kilowatt hours,7635
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,08,D,Mean kilowatt hours,7846
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,09,E,Mean kilowatt hours,8029
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,10,F- G,Mean kilowatt hours,8353
+DBERNG01,Mean Gas Consumption,2015,2015,01,Apartment,-,All BER ratings,Mean kilowatt hours,7481
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,13,A - B,Mean kilowatt hours,8756
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,07,C,Mean kilowatt hours,8715
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,08,D,Mean kilowatt hours,9389
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,09,E,Mean kilowatt hours,9699
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,10,F- G,Mean kilowatt hours,8937
+DBERNG01,Mean Gas Consumption,2015,2015,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,8984
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,13,A - B,Mean kilowatt hours,10323
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,07,C,Mean kilowatt hours,9735
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,08,D,Mean kilowatt hours,10074
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,09,E,Mean kilowatt hours,10554
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,10,F- G,Mean kilowatt hours,10064
+DBERNG01,Mean Gas Consumption,2015,2015,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,9987
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,13,A - B,Mean kilowatt hours,11472
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,07,C,Mean kilowatt hours,11072
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,08,D,Mean kilowatt hours,11588
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,09,E,Mean kilowatt hours,12860
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,10,F- G,Mean kilowatt hours,12438
+DBERNG01,Mean Gas Consumption,2015,2015,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,11456
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,13,A - B,Mean kilowatt hours,16953
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,07,C,Mean kilowatt hours,15583
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,08,D,Mean kilowatt hours,14865
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,09,E,Mean kilowatt hours,16446
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,10,F- G,Mean kilowatt hours,15452
+DBERNG01,Mean Gas Consumption,2015,2015,08,Detached house,-,All BER ratings,Mean kilowatt hours,15763
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,13,A - B,Mean kilowatt hours,11170
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,07,C,Mean kilowatt hours,10776
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,08,D,Mean kilowatt hours,11112
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,09,E,Mean kilowatt hours,11736
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,10,F- G,Mean kilowatt hours,10973
+DBERNG01,Mean Gas Consumption,2015,2015,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,13,A - B,Mean kilowatt hours,8031
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,07,C,Mean kilowatt hours,8474
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,08,D,Mean kilowatt hours,8220
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,09,E,Mean kilowatt hours,8423
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,10,F- G,Mean kilowatt hours,8856
+DBERNG01,Mean Gas Consumption,2016,2016,01,Apartment,-,All BER ratings,Mean kilowatt hours,8351
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,13,A - B,Mean kilowatt hours,8617
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,07,C,Mean kilowatt hours,8566
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,08,D,Mean kilowatt hours,9245
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,09,E,Mean kilowatt hours,9565
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,10,F- G,Mean kilowatt hours,8822
+DBERNG01,Mean Gas Consumption,2016,2016,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,8842
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,13,A - B,Mean kilowatt hours,10191
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,07,C,Mean kilowatt hours,9648
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,08,D,Mean kilowatt hours,9929
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,09,E,Mean kilowatt hours,10346
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,10,F- G,Mean kilowatt hours,10021
+DBERNG01,Mean Gas Consumption,2016,2016,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,9873
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,13,A - B,Mean kilowatt hours,11152
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,07,C,Mean kilowatt hours,10797
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,08,D,Mean kilowatt hours,11379
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,09,E,Mean kilowatt hours,12665
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,10,F- G,Mean kilowatt hours,12168
+DBERNG01,Mean Gas Consumption,2016,2016,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,11199
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,13,A - B,Mean kilowatt hours,16663
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,07,C,Mean kilowatt hours,15214
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,08,D,Mean kilowatt hours,14609
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,09,E,Mean kilowatt hours,16085
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,10,F- G,Mean kilowatt hours,15086
+DBERNG01,Mean Gas Consumption,2016,2016,08,Detached house,-,All BER ratings,Mean kilowatt hours,15434
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,13,A - B,Mean kilowatt hours,11255
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,07,C,Mean kilowatt hours,10653
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,08,D,Mean kilowatt hours,10957
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,09,E,Mean kilowatt hours,11556
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,10,F- G,Mean kilowatt hours,10805
+DBERNG01,Mean Gas Consumption,2016,2016,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,13,A - B,Mean kilowatt hours,8023
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,07,C,Mean kilowatt hours,8195
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,08,D,Mean kilowatt hours,8190
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,09,E,Mean kilowatt hours,8488
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,10,F- G,Mean kilowatt hours,8584
+DBERNG01,Mean Gas Consumption,2017,2017,01,Apartment,-,All BER ratings,Mean kilowatt hours,8194
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,13,A - B,Mean kilowatt hours,8359
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,07,C,Mean kilowatt hours,8326
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,08,D,Mean kilowatt hours,8970
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,09,E,Mean kilowatt hours,9283
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,10,F- G,Mean kilowatt hours,8574
+DBERNG01,Mean Gas Consumption,2017,2017,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,8587
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,13,A - B,Mean kilowatt hours,9903
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,07,C,Mean kilowatt hours,9371
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,08,D,Mean kilowatt hours,9787
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,09,E,Mean kilowatt hours,10212
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,10,F- G,Mean kilowatt hours,9797
+DBERNG01,Mean Gas Consumption,2017,2017,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,9647
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,13,A - B,Mean kilowatt hours,10883
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,07,C,Mean kilowatt hours,10603
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,08,D,Mean kilowatt hours,11216
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,09,E,Mean kilowatt hours,12293
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,10,F- G,Mean kilowatt hours,11935
+DBERNG01,Mean Gas Consumption,2017,2017,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,10988
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,13,A - B,Mean kilowatt hours,16249
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,07,C,Mean kilowatt hours,14818
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,08,D,Mean kilowatt hours,14420
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,09,E,Mean kilowatt hours,15636
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,10,F- G,Mean kilowatt hours,14883
+DBERNG01,Mean Gas Consumption,2017,2017,08,Detached house,-,All BER ratings,Mean kilowatt hours,15078
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,13,A - B,Mean kilowatt hours,10963
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,07,C,Mean kilowatt hours,10403
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,08,D,Mean kilowatt hours,10766
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,09,E,Mean kilowatt hours,11252
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,10,F- G,Mean kilowatt hours,10564
+DBERNG01,Mean Gas Consumption,2017,2017,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,13,A - B,Mean kilowatt hours,9004
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,07,C,Mean kilowatt hours,9132
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,08,D,Mean kilowatt hours,8748
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,09,E,Mean kilowatt hours,9154
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,10,F- G,Mean kilowatt hours,9244
+DBERNG01,Mean Gas Consumption,2018,2018,01,Apartment,-,All BER ratings,Mean kilowatt hours,9044
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,13,A - B,Mean kilowatt hours,9377
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,07,C,Mean kilowatt hours,9236
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,08,D,Mean kilowatt hours,9902
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,09,E,Mean kilowatt hours,10259
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,10,F- G,Mean kilowatt hours,9513
+DBERNG01,Mean Gas Consumption,2018,2018,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,9526
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,13,A - B,Mean kilowatt hours,11024
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,07,C,Mean kilowatt hours,10346
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,08,D,Mean kilowatt hours,10663
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,09,E,Mean kilowatt hours,11082
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,10,F- G,Mean kilowatt hours,10733
+DBERNG01,Mean Gas Consumption,2018,2018,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,10598
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,13,A - B,Mean kilowatt hours,12280
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,07,C,Mean kilowatt hours,11943
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,08,D,Mean kilowatt hours,12494
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,09,E,Mean kilowatt hours,13556
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,10,F- G,Mean kilowatt hours,13218
+DBERNG01,Mean Gas Consumption,2018,2018,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,12308
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,13,A - B,Mean kilowatt hours,18245
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,07,C,Mean kilowatt hours,16788
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,08,D,Mean kilowatt hours,15987
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,09,E,Mean kilowatt hours,17082
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,10,F- G,Mean kilowatt hours,16209
+DBERNG01,Mean Gas Consumption,2018,2018,08,Detached house,-,All BER ratings,Mean kilowatt hours,16922
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,13,A - B,Mean kilowatt hours,12323
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,07,C,Mean kilowatt hours,11668
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,08,D,Mean kilowatt hours,11919
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,09,E,Mean kilowatt hours,12368
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,10,F- G,Mean kilowatt hours,11658
+DBERNG01,Mean Gas Consumption,2018,2018,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,13,A - B,Mean kilowatt hours,8225
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,07,C,Mean kilowatt hours,8530
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,08,D,Mean kilowatt hours,8434
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,09,E,Mean kilowatt hours,8331
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,10,F- G,Mean kilowatt hours,8795
+DBERNG01,Mean Gas Consumption,2019,2019,01,Apartment,-,All BER ratings,Mean kilowatt hours,8451
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,13,A - B,Mean kilowatt hours,8592
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,07,C,Mean kilowatt hours,8532
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,08,D,Mean kilowatt hours,9204
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,09,E,Mean kilowatt hours,9408
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,10,F- G,Mean kilowatt hours,8779
+DBERNG01,Mean Gas Consumption,2019,2019,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,8793
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,13,A - B,Mean kilowatt hours,10104
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,07,C,Mean kilowatt hours,9575
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,08,D,Mean kilowatt hours,9970
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,09,E,Mean kilowatt hours,10308
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,10,F- G,Mean kilowatt hours,9991
+DBERNG01,Mean Gas Consumption,2019,2019,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,9834
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,13,A - B,Mean kilowatt hours,11187
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,07,C,Mean kilowatt hours,10895
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,08,D,Mean kilowatt hours,11440
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,09,E,Mean kilowatt hours,12600
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,10,F- G,Mean kilowatt hours,12209
+DBERNG01,Mean Gas Consumption,2019,2019,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,11264
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,13,A - B,Mean kilowatt hours,16841
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,07,C,Mean kilowatt hours,15528
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,08,D,Mean kilowatt hours,14913
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,09,E,Mean kilowatt hours,16269
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,10,F- G,Mean kilowatt hours,15255
+DBERNG01,Mean Gas Consumption,2019,2019,08,Detached house,-,All BER ratings,Mean kilowatt hours,15707
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,13,A - B,Mean kilowatt hours,11289
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,07,C,Mean kilowatt hours,10723
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,08,D,Mean kilowatt hours,11018
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,09,E,Mean kilowatt hours,11492
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,10,F- G,Mean kilowatt hours,10794
+DBERNG01,Mean Gas Consumption,2019,2019,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,13,A - B,Mean kilowatt hours,8651
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,07,C,Mean kilowatt hours,8794
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,08,D,Mean kilowatt hours,8565
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,09,E,Mean kilowatt hours,8723
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,10,F- G,Mean kilowatt hours,9059
+DBERNG01,Mean Gas Consumption,2020,2020,01,Apartment,-,All BER ratings,Mean kilowatt hours,8731
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,13,A - B,Mean kilowatt hours,9054
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,07,C,Mean kilowatt hours,8956
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,08,D,Mean kilowatt hours,9489
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,09,E,Mean kilowatt hours,9667
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,10,F- G,Mean kilowatt hours,9097
+DBERNG01,Mean Gas Consumption,2020,2020,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,9169
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,13,A - B,Mean kilowatt hours,10518
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,07,C,Mean kilowatt hours,9973
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,08,D,Mean kilowatt hours,10388
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,09,E,Mean kilowatt hours,10701
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,10,F- G,Mean kilowatt hours,10179
+DBERNG01,Mean Gas Consumption,2020,2020,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,10219
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,13,A - B,Mean kilowatt hours,11863
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,07,C,Mean kilowatt hours,11487
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,08,D,Mean kilowatt hours,12109
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,09,E,Mean kilowatt hours,13231
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,10,F- G,Mean kilowatt hours,12605
+DBERNG01,Mean Gas Consumption,2020,2020,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,11879
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,13,A - B,Mean kilowatt hours,17400
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,07,C,Mean kilowatt hours,16147
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,08,D,Mean kilowatt hours,15520
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,09,E,Mean kilowatt hours,16518
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,10,F- G,Mean kilowatt hours,15741
+DBERNG01,Mean Gas Consumption,2020,2020,08,Detached house,-,All BER ratings,Mean kilowatt hours,16287
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,13,A - B,Mean kilowatt hours,11843
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,07,C,Mean kilowatt hours,11241
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,08,D,Mean kilowatt hours,11536
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,09,E,Mean kilowatt hours,11925
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,10,F- G,Mean kilowatt hours,11128
+DBERNG01,Mean Gas Consumption,2020,2020,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,13,A - B,Mean kilowatt hours,8474
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,07,C,Mean kilowatt hours,8642
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,08,D,Mean kilowatt hours,8515
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,09,E,Mean kilowatt hours,8837
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,10,F- G,Mean kilowatt hours,8926
+DBERNG01,Mean Gas Consumption,2021,2021,01,Apartment,-,All BER ratings,Mean kilowatt hours,8610
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,13,A - B,Mean kilowatt hours,8811
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,07,C,Mean kilowatt hours,8759
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,08,D,Mean kilowatt hours,9331
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,09,E,Mean kilowatt hours,9572
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,10,F- G,Mean kilowatt hours,8954
+DBERNG01,Mean Gas Consumption,2021,2021,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,8987
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,13,A - B,Mean kilowatt hours,10333
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,07,C,Mean kilowatt hours,9792
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,08,D,Mean kilowatt hours,10158
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,09,E,Mean kilowatt hours,10553
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,10,F- G,Mean kilowatt hours,10167
+DBERNG01,Mean Gas Consumption,2021,2021,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,10044
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,13,A - B,Mean kilowatt hours,11435
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,07,C,Mean kilowatt hours,11208
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,08,D,Mean kilowatt hours,11848
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,09,E,Mean kilowatt hours,12666
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,10,F- G,Mean kilowatt hours,12213
+DBERNG01,Mean Gas Consumption,2021,2021,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,11558
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,13,A - B,Mean kilowatt hours,17176
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,07,C,Mean kilowatt hours,15896
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,08,D,Mean kilowatt hours,15238
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,09,E,Mean kilowatt hours,16244
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,10,F- G,Mean kilowatt hours,15092
+DBERNG01,Mean Gas Consumption,2021,2021,08,Detached house,-,All BER ratings,Mean kilowatt hours,16020
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,13,A - B,Mean kilowatt hours,11543
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,07,C,Mean kilowatt hours,11003
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,08,D,Mean kilowatt hours,11309
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,09,E,Mean kilowatt hours,11612
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,10,F- G,Mean kilowatt hours,10888
+DBERNG01,Mean Gas Consumption,2021,2021,-,All dwellings,-,All BER ratings,Mean kilowatt hours,
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,13,A - B,Mean kilowatt hours,7242
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,07,C,Mean kilowatt hours,7539
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,08,D,Mean kilowatt hours,7410
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,09,E,Mean kilowatt hours,7677
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,10,F- G,Mean kilowatt hours,7910
+DBERNG01,Mean Gas Consumption,2022,2022,01,Apartment,-,All BER ratings,Mean kilowatt hours,7480
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,13,A - B,Mean kilowatt hours,7600
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,07,C,Mean kilowatt hours,7517
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,08,D,Mean kilowatt hours,7981
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,09,E,Mean kilowatt hours,8136
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,10,F- G,Mean kilowatt hours,7585
+DBERNG01,Mean Gas Consumption,2022,2022,11,Mid-terrace house,-,All BER ratings,Mean kilowatt hours,7699
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,13,A - B,Mean kilowatt hours,8833
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,07,C,Mean kilowatt hours,8405
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,08,D,Mean kilowatt hours,8731
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,09,E,Mean kilowatt hours,9118
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,10,F- G,Mean kilowatt hours,8809
+DBERNG01,Mean Gas Consumption,2022,2022,10,End of terrace house,-,All BER ratings,Mean kilowatt hours,8635
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,13,A - B,Mean kilowatt hours,9712
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,07,C,Mean kilowatt hours,9530
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,08,D,Mean kilowatt hours,10138
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,09,E,Mean kilowatt hours,11017
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,10,F- G,Mean kilowatt hours,10612
+DBERNG01,Mean Gas Consumption,2022,2022,09,Semi-detached house,-,All BER ratings,Mean kilowatt hours,9875
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,13,A - B,Mean kilowatt hours,14442
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,07,C,Mean kilowatt hours,13431
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,08,D,Mean kilowatt hours,12963
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,09,E,Mean kilowatt hours,13967
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,10,F- G,Mean kilowatt hours,13068
+DBERNG01,Mean Gas Consumption,2022,2022,08,Detached house,-,All BER ratings,Mean kilowatt hours,13563
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,13,A - B,Mean kilowatt hours,9813
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,07,C,Mean kilowatt hours,9374
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,08,D,Mean kilowatt hours,9672
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,09,E,Mean kilowatt hours,10013
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,10,F- G,Mean kilowatt hours,9382
+DBERNG01,Mean Gas Consumption,2022,2022,-,All dwellings,-,All BER ratings,Mean kilowatt hours,

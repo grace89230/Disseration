@@ -1,0 +1,289 @@
+ID,Statistic Label,TLIST(A1),Year,Type of Dwelling,UNIT,VALUE
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,4747
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,5421
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,5254
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,4867
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,3934
+DBEREL01C01,Household Electricity Consumption,2015,2015,Apartment,Mean kilowatt-hours,5057
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,3588
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,5946
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,5507
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,4996
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,3993
+DBEREL01C01,Household Electricity Consumption,2015,2015,Mid-terrace house,Mean kilowatt-hours,4705
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,3856
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,5528
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,5891
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,5533
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,4476
+DBEREL01C01,Household Electricity Consumption,2015,2015,End of terrace house,Mean kilowatt-hours,4860
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,3741
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,5555
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,5507
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,5175
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,4731
+DBEREL01C01,Household Electricity Consumption,2015,2015,Semi-detached house,Mean kilowatt-hours,4561
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,7937
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,8191
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,5946
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,5591
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,4279
+DBEREL01C01,Household Electricity Consumption,2015,2015,Detached house,Mean kilowatt-hours,6657
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,5714
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,5545
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,5342
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,5001
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,4147
+DBEREL01C01,Household Electricity Consumption,2015,2015,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,4804
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,5401
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,5241
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,4887
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,4004
+DBEREL01C01,Household Electricity Consumption,2016,2016,Apartment,Mean kilowatt-hours,5061
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,3496
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,6078
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,5507
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,4922
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,3874
+DBEREL01C01,Household Electricity Consumption,2016,2016,Mid-terrace house,Mean kilowatt-hours,4650
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,3745
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,5407
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,6001
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,5491
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,4494
+DBEREL01C01,Household Electricity Consumption,2016,2016,End of terrace house,Mean kilowatt-hours,4827
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,3834
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,5383
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,5417
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,5141
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,4591
+DBEREL01C01,Household Electricity Consumption,2016,2016,Semi-detached house,Mean kilowatt-hours,4502
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,7768
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,7945
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,5859
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,5458
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,4178
+DBEREL01C01,Household Electricity Consumption,2016,2016,Detached house,Mean kilowatt-hours,6585
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,5668
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,5522
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,5326
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,4992
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,4123
+DBEREL01C01,Household Electricity Consumption,2016,2016,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,4679
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,5324
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,5241
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,4934
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,4075
+DBEREL01C01,Household Electricity Consumption,2017,2017,Apartment,Mean kilowatt-hours,5050
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,3511
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,5844
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,5479
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,4883
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,3905
+DBEREL01C01,Household Electricity Consumption,2017,2017,Mid-terrace house,Mean kilowatt-hours,4593
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,3742
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,5444
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,5898
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,5458
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,4430
+DBEREL01C01,Household Electricity Consumption,2017,2017,End of terrace house,Mean kilowatt-hours,4744
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,3867
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,5673
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,5527
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,5080
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,4608
+DBEREL01C01,Household Electricity Consumption,2017,2017,Semi-detached house,Mean kilowatt-hours,4481
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,7621
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,7967
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,5936
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,5395
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,4180
+DBEREL01C01,Household Electricity Consumption,2017,2017,Detached house,Mean kilowatt-hours,6589
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,5572
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,5450
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,5331
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,5008
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,4158
+DBEREL01C01,Household Electricity Consumption,2017,2017,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,4675
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,5717
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,5638
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,5280
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,4336
+DBEREL01C01,Household Electricity Consumption,2018,2018,Apartment,Mean kilowatt-hours,5401
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,3756
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,6171
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,5936
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,5254
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,4054
+DBEREL01C01,Household Electricity Consumption,2018,2018,Mid-terrace house,Mean kilowatt-hours,4850
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,3904
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,5772
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,6499
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,5867
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,4620
+DBEREL01C01,Household Electricity Consumption,2018,2018,End of terrace house,Mean kilowatt-hours,4974
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,4173
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,6136
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,5866
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,5391
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,4719
+DBEREL01C01,Household Electricity Consumption,2018,2018,Semi-detached house,Mean kilowatt-hours,4682
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,8133
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,8760
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,6424
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,5783
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,4438
+DBEREL01C01,Household Electricity Consumption,2018,2018,Detached house,Mean kilowatt-hours,7148
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,5843
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,5854
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,5740
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,5360
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,4379
+DBEREL01C01,Household Electricity Consumption,2018,2018,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,3967
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,5188
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,5137
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,4886
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,4090
+DBEREL01C01,Household Electricity Consumption,2019,2019,Apartment,Mean kilowatt-hours,4921
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,3463
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,5723
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,5387
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,4826
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,3803
+DBEREL01C01,Household Electricity Consumption,2019,2019,Mid-terrace house,Mean kilowatt-hours,4396
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,3632
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,5219
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,5878
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,5325
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,4322
+DBEREL01C01,Household Electricity Consumption,2019,2019,End of terrace house,Mean kilowatt-hours,4455
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,4008
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,5616
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,5292
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,5097
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,4354
+DBEREL01C01,Household Electricity Consumption,2019,2019,Semi-detached house,Mean kilowatt-hours,4341
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,7432
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,8103
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,5868
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,5448
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,4193
+DBEREL01C01,Household Electricity Consumption,2019,2019,Detached house,Mean kilowatt-hours,6667
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,5283
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,5327
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,5225
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,4969
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,4115
+DBEREL01C01,Household Electricity Consumption,2019,2019,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,3954
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,5705
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,5628
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,5336
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,4415
+DBEREL01C01,Household Electricity Consumption,2020,2020,Apartment,Mean kilowatt-hours,5339
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,4002
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,6248
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,5930
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,5171
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,4072
+DBEREL01C01,Household Electricity Consumption,2020,2020,Mid-terrace house,Mean kilowatt-hours,4780
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,4189
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,5914
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,6455
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,5854
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,4627
+DBEREL01C01,Household Electricity Consumption,2020,2020,End of terrace house,Mean kilowatt-hours,4858
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,4703
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,6010
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,5846
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,5554
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,4666
+DBEREL01C01,Household Electricity Consumption,2020,2020,Semi-detached house,Mean kilowatt-hours,4904
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,8418
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,9031
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,6445
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,5911
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,4520
+DBEREL01C01,Household Electricity Consumption,2020,2020,Detached house,Mean kilowatt-hours,7577
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,5878
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,5859
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,5731
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,5416
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,4429
+DBEREL01C01,Household Electricity Consumption,2020,2020,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,3645
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,5545
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,5506
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,5232
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,4321
+DBEREL01C01,Household Electricity Consumption,2021,2021,Apartment,Mean kilowatt-hours,5149
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,4074
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,6313
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,5794
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,5121
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,4038
+DBEREL01C01,Household Electricity Consumption,2021,2021,Mid-terrace house,Mean kilowatt-hours,4705
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,4451
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,5845
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,6470
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,5784
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,4606
+DBEREL01C01,Household Electricity Consumption,2021,2021,End of terrace house,Mean kilowatt-hours,4911
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,4866
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,6068
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,5883
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,5479
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,4623
+DBEREL01C01,Household Electricity Consumption,2021,2021,Semi-detached house,Mean kilowatt-hours,4990
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,8819
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,9439
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,6486
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,5915
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,4595
+DBEREL01C01,Household Electricity Consumption,2021,2021,Detached house,Mean kilowatt-hours,7961
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,5902
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,5738
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,5629
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,5331
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,4391
+DBEREL01C01,Household Electricity Consumption,2021,2021,All dwellings,Mean kilowatt-hours,
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,2935
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,5066
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,4987
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,4781
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,3909
+DBEREL01C01,Household Electricity Consumption,2022,2022,Apartment,Mean kilowatt-hours,4537
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,3764
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,5559
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,5233
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,4633
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,3680
+DBEREL01C01,Household Electricity Consumption,2022,2022,Mid-terrace house,Mean kilowatt-hours,4228
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,4042
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,5373
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,5717
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,5122
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,4165
+DBEREL01C01,Household Electricity Consumption,2022,2022,End of terrace house,Mean kilowatt-hours,4376
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,4382
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,5350
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,5266
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,4925
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,4090
+DBEREL01C01,Household Electricity Consumption,2022,2022,Semi-detached house,Mean kilowatt-hours,4469
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,8105
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,8363
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,5776
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,5335
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,4159
+DBEREL01C01,Household Electricity Consumption,2022,2022,Detached house,Mean kilowatt-hours,7317
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,5100
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,5215
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,5085
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,4845
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,3966
+DBEREL01C01,Household Electricity Consumption,2022,2022,All dwellings,Mean kilowatt-hours,
